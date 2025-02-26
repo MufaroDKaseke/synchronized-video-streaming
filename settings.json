@@ -1,6 +1,6 @@
 {
-    "server_ip": "",
+    "server_ip": "localhost",
     "server_port": 3000,
-    "video_path": "videos/shrek.mp4",
-    "password": ""
+    "video_path": "videos/you_people.mkv",
+    "password": "password"
 }

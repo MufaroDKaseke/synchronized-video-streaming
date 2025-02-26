@@ -162,7 +162,7 @@ app.get("/video", function (req, res) {
 
 
 // host server on given ip and port
-server.listen(settings.server_port, settings.server_ip,
+server.listen(settings.server_port,
 	() => console.log(`Server started at ${settings.server_ip}:${settings.server_port}`));
 
 
